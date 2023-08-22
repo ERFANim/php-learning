@@ -9,8 +9,10 @@
     <!--wp-plugins-->
     <h2>wp plugins</h2>
     <ol>
-        <li></li>
+        <li>plugins = add to core for weigte services, securety code and optimize importent</li>
+        <li>plugins list = wp-content\plugins\main.php</li>
+        <li>active plugin = add main plugin to core(include)</li>
+        <li>active plugin data = phpmyadmin/wordpress.exp/exp_options/active_plugins(save settings)</li>
     </ol>
-
 </body>
 </html>
